@@ -1,12 +1,13 @@
 # Scopus-Connection-with-Selenium
-Scraping title,date and abstract from Scopus using Python Selenium 
+Extracting title, date, and abstract data from Scopus using Python and Selenium.
 
-I've logged in many times to Scopus with my instution user name. This program will work if you've logged in Scopus one time. 
-You should give permission to Scopus to remember your informations before you try scraping data. 
+I have used my institution's username to log in to Scopus multiple times. This program requires a one-time login to Scopus. Please ensure that you have granted permission to Scopus to remember your information before attempting to scrape data.
+
+Before running the program, please provide the path to your chromedriver.exe file. Once you have entered your username and password information, you will receive your desired data.
+
+The program utilizes the "DB Browser for SQLite" database to store the scraped data.
+
+I developed this code for use in my thesis project.
 
 
-You need to give your chromedriver.exe path first. After you give your user name and password informations you'll get your informations.
 
-"DB Browser for Sqlite" database is used to store the data. 
-
-This code was written by me to use on my thesis.
