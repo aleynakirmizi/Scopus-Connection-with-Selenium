@@ -7,4 +7,6 @@ You should give permission to Scopus to remember your informations before you tr
 
 You need to give your chromedriver.exe path first. After you give your user name and password informations you'll get your informations.
 
+"DB Browser for Sqlite" database is used to store the data. 
+
 This code was written by me to use on my thesis.
